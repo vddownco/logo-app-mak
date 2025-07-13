@@ -1,0 +1,5 @@
+{
+  "description": "An AI-powered application to generate professional logos for startups and brands. Users can describe their brand, choose styles and colors, and generate multiple logo options. It includes an ad-based download system.",
+  "requestFramePermissions": [],
+  "name": "App"
+}
